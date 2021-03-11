@@ -21,11 +21,11 @@ public class Caneta {
            System.out.println("Estou Rabiscando");
        }      
     }
-      protected void tampar() {
+     public void tampar() {
         this.tampada = true
           
       } 
-      protected void destampar() {
+      public void destampar() {
         this.tampada = false
           
       }

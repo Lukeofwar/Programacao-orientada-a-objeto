@@ -6,7 +6,10 @@ public class Aula02 {
        c1.cor = "vermelha";
        // c1.ponta = 0.5f;
        c1.carga = 80;
+       // c1. tampada = false;
+       c1.destampar();
        c1.status();
+       c1. rabiscar();
     }
     
 }
